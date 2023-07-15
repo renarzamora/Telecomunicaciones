@@ -21,17 +21,17 @@ Para disponibilizar los datos es necesario: a) Correr previamente el notebook et
 EDA: Análisis Exploratorio de los datos.
 Através de un largo proceso encontramos los 3 importantes KPIs que orientan de manera clave la conveniencia de apostar por el mercado argentino o no, que es precisamente la necesidad de nuestro cliente:
 
-![Tendencia de Accesos por cada 100 hogares y cada habitantes](https://github.com/renarzamora/Telecomunicaciones/blob/master/Images/Tendencia de Accesos por cada 100 hogares y cada habitantes.png "Tendencia de Accesos por cada 100 hogares y cada habitantes")
+![Tendencia de Accesos por cada 100 hogares y cada habitantes](https://github.com/renarzamora/Telecomunicaciones/blob/master/Images/Tendencia de Accesos por cada 100 hogares y cada habitantes.png?raw=true  "Tendencia de Accesos por cada 100 hogares y cada habitantes")
 
 1. Penetración de internet fijo por población: Este KPI nos permite evaluar el nivel de adopción de internet fijo en relación con la población total. Un alto porcentaje de penetración indica que hay una demanda significativa y un mercado potencialmente rentable para el operador.
 
 
-![Internet Fijo - Ingresos (cientos de millones de pesos) por Año](https://github.com/renarzamora/Telecomunicaciones/blob/master/Images/Internet Fijo - Ingresos.png "Internet Fijo - Ingresos (cientos de millones de pesos) por Año")
+![Internet Fijo - Ingresos (cientos de millones de pesos) por Año](https://github.com/renarzamora/Telecomunicaciones/blob/master/Images/Internet Fijo - Ingresos.png?raw=true "Internet Fijo - Ingresos (cientos de millones de pesos) por Año")
 
 2. Ingresos trimestrales por telefonía móvil y suscripción paga de internet: Estos KPIs nos brindan una idea de la viabilidad económica del mercado de telecomunicaciones en Argentina. Un crecimiento constante o en aumento de los ingresos trimestrales indica un mercado LUCRATIVO y en EXPANSIÓN.
 
 
-![Velocidad Media de bajada en Mbps por Año](https://github.com/renarzamora/Telecomunicaciones/blob/master/Images/Velocidad Media de bajada en Mbps por Año.png "Velocidad Media de bajada en Mbps por Año")
+![Velocidad Media de bajada en Mbps por Año](https://github.com/renarzamora/Telecomunicaciones/blob/master/Images/Velocidad Media de bajada en Mbps por Año.png?raw=true "Velocidad Media de bajada en Mbps por Año")
 
   3. Velocidad media de conexión de Argentina por año: Este KPI nos muestra la evolución de la velocidad media de conexión a lo largo del tiempo. Una tendencia ascendente en la velocidad media indica una infraestructura sólida y una demanda creciente de servicios de telecomunicaciones, preferencia y adopción por la calidad del servicio, lo cual consideramos una señal positiva a la hora de apostar por inversiones de infraestructura.
 
