@@ -35,6 +35,9 @@ Através de un largo proceso encontramos los 3 importantes KPIs que orientan de 
 
   3. Velocidad media de conexión de Argentina por año: Este KPI nos muestra la evolución de la velocidad media de conexión a lo largo del tiempo. Una tendencia ascendente en la velocidad media indica una infraestructura sólida y una demanda creciente de servicios de telecomunicaciones, preferencia y adopción por la calidad del servicio, lo cual consideramos una señal positiva a la hora de apostar por inversiones de infraestructura.
 
+# Conclusión General: Encontramos un mercado dispuesto a consumir servicios de comunicación de calidad, una infraestructura sólida que permite las actualizaciones rápidas de las tecnologías, máxima penetración en los centros urbanos y grandes oportunidades en las regiones rurales con el uso uso del 5G e internet de las cosas en la agroganadería, explotaciones de minerales y combustibles fósiles. Junto al uso de internet se puede trabajar en el engagement con los servicios de telefonía móvil y TV paga.
+
+
 ## Fuentes:
 Enacom:
 	Datasets principales https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/
