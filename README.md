@@ -47,7 +47,12 @@ Estado y tendencia del mercado https://www.iprofesional.com/tecnologia/384932-co
 
 Estadísticas https://www.indec.gob.ar/indec/web/Nivel3-Tema-4-26
 
-## Autor
+**Autor**
+---------
 Renar zamora renarzamora@gmail.com
+
+**Tools**
+----------------
+* Python 3.11, Mysql, Visual Studio Code, Power BI, Matplotlib, Pandas, Seaborn, Numpy
 
 ###Fin
